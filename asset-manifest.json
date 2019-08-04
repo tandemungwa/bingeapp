@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/bingeapp/static/css/main.2cce8147.chunk.css",
+    "main.js": "/bingeapp/static/js/main.5a295282.chunk.js",
+    "main.js.map": "/bingeapp/static/js/main.5a295282.chunk.js.map",
+    "runtime~main.js": "/bingeapp/static/js/runtime~main.324986ce.js",
+    "runtime~main.js.map": "/bingeapp/static/js/runtime~main.324986ce.js.map",
+    "static/css/2.22921dbe.chunk.css": "/bingeapp/static/css/2.22921dbe.chunk.css",
+    "static/js/2.91010634.chunk.js": "/bingeapp/static/js/2.91010634.chunk.js",
+    "static/js/2.91010634.chunk.js.map": "/bingeapp/static/js/2.91010634.chunk.js.map",
+    "index.html": "/bingeapp/index.html",
+    "precache-manifest.67aef98ec4d3e2f566642ebbaafd374f.js": "/bingeapp/precache-manifest.67aef98ec4d3e2f566642ebbaafd374f.js",
+    "service-worker.js": "/bingeapp/service-worker.js",
+    "static/css/2.22921dbe.chunk.css.map": "/bingeapp/static/css/2.22921dbe.chunk.css.map",
+    "static/css/main.2cce8147.chunk.css.map": "/bingeapp/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/bingeapp/static/media/logo.5d5d9eef.svg"
+  }
+}
